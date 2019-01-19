@@ -1,5 +1,5 @@
 # Kivy Status bar Navigation bar Color
-Make status bar and navigation bar compatible with your application's theme by changing their color.
+Change status bar and navigation bar colors on your Kivy app.
 
 Requires min-api 21
 
